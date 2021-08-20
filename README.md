@@ -1,8 +1,6 @@
-<html>
-  <div>
-    <figure><embed src="https://wakatime.com/share/@f4ez/ca515b67-269c-44b7-a013-55d2d37470a2.svg"></embed></figure>
-  </div>
-</html>
+
+ ![]<figure><embed src="https://wakatime.com/share/@f4ez/ca515b67-269c-44b7-a013-55d2d37470a2.svg"></embed></figure>
+
 
 **faeztgh/faeztgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
