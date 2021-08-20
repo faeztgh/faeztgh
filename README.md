@@ -1,6 +1,6 @@
 <html>
   <body>
-  <figure><embed src="https://wakatime.com/share/@f4ez/ca515b67-269c-44b7-a013-55d2d37470a2.svg"></embed></figure>
+<img src="https://wakatime.com/share/@f4ez/ca515b67-269c-44b7-a013-55d2d37470a2.svg"/>
   </body>
 </html>
 
