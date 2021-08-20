@@ -1,4 +1,4 @@
-[![](https://github-readme-stats.vercel.app/api?username=faeztgh&repo=faez-shop&theme=midnight-purple&show_icons=true&show_owner=true&api_domain=https://wakatime.com/share/@f4ez/&range=last_year)](https://github.com/faeztgh/)
+[![](https://github-readme-stats.vercel.app/api?username=faeztgh&repo=faez-shop&theme=midnight-purple&show_icons=true&show_owner=true&wakatime?username=f4ez&count_private=true)](https://github.com/faeztgh/)
 
 <br/>
 <br/>
