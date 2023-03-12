@@ -1,4 +1,4 @@
-[comment]: <> [![](https://github-readme-stats.vercel.app/api?username=faeztgh&theme=midnight-purple&show_icons=true&show_owner=true&count_private=true)](https://github.com/faeztgh/)
+ [![](https://github-readme-stats.vercel.app/api?username=faeztgh&theme=midnight-purple&show_icons=true&show_owner=true&count_private=true)](https://github.com/faeztgh/)
 
 <br/>
 
@@ -12,4 +12,4 @@
 
 <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=faeztgh&label=Profile%20Views&icon=3&pretty=true)](https://github.com/faeztgh/)
+<!-- [![](https://visitcount.itsvg.in/api?id=faeztgh&label=Profile%20Views&icon=3&pretty=true)](https://github.com/faeztgh/) -->
