@@ -1,4 +1,4 @@
-# [![](https://github-readme-stats.vercel.app/api?username=faeztgh&theme=midnight-purple&show_icons=true&show_owner=true&count_private=true)](https://github.com/faeztgh/)
+[comment]: <> [![](https://github-readme-stats.vercel.app/api?username=faeztgh&theme=midnight-purple&show_icons=true&show_owner=true&count_private=true)](https://github.com/faeztgh/)
 
 <br/>
 
