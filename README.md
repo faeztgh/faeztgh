@@ -12,7 +12,7 @@
 
 <hr/>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=faeztgh&label=Profile%20Views&icon=3&pretty=true)](https://github.com/faeztgh/) -->
+[![](https://visitcount.itsvg.in/api?id=faeztgh&label=Profile%20Views&icon=3&pretty=true)](https://github.com/faeztgh/)
 
 
 
