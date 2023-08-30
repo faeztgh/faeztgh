@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeztgh&theme=midnight-purple&show_icons=true&layout=compact&show_owner=true&count_private=true)](https://github.com/faeztgh/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeztgh&theme=midnight-purple&show_icons=true&layout=compact&show_owner=true&count_private=true)](https://github.com/faeztgh/) -->
 
 <br/>
 
